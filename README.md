@@ -5,10 +5,10 @@ This repository provides a comprehensive implementation for classifying handwrit
 The MNIST dataset is a benchmark dataset in the field of machine learning, consisting of 70,000 grayscale images of handwritten digits, each of size 28x28 pixels. This project utilizes a deep learning approach to train a neural network capable of accurately recognizing these digits.
 
 ## Key steps include:
-> Loading and preprocessing the MNIST dataset.
-> Building a deep learning model using TensorFlow and Keras.
-> Training the model and optimizing its performance.
-> Visualizing and analyzing model performance with metrics and confusion matrices.
+1. Loading and preprocessing the MNIST dataset.
+2. Building a deep learning model using TensorFlow and Keras.
+3. Training the model and optimizing its performance.
+4. Visualizing and analyzing model performance with metrics and confusion matrices.
 
 ## Features:
 ### Data Preprocessing:
