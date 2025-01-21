@@ -31,11 +31,19 @@ Plot confusion matrices and training performance curves using Seaborn and Matplo
 
 ## Tools and Libraries Used
 NumPy: For efficient numerical computations and data manipulation.
+
 Matplotlib.pyplot: For visualizing sample images, model metrics, and results.
+
 Seaborn: For advanced visualization, including the confusion matrix.
+
 Pillow (PIL): For handling image data.
+
 OpenCV (cv2): For image preprocessing and manipulation.
+
 Google Colab Patches: For convenient visualization when running in Google Colab.
+
 TensorFlow: Core framework for building, training, and evaluating the deep learning model.
+
 Keras: High-level API of TensorFlow for building neural networks.
+
 Confusion Matrix: To assess model performance on test data.
